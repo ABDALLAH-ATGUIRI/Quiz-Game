@@ -1,2 +1,7 @@
 # Quiz-Game
-A mini quiz application to test knowledge of students. The application will use a predefined set of questions. There are 2 types of questions: Single choice, and multiple choice questions.
+The student takes the test by answering each question presented to him one at a time. Once a
+question is answered he clicks next to receive the next question. When there are no more
+questions to answer, the student clicks a button to submit his answers.
+Once the quiz is submitted, the system shows the student the results with the correct answers.
+Tip: You can use JSON data from this link as the source of your data:
+https://opentdb.com/api.php?amount=50
